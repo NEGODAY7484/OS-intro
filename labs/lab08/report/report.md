@@ -178,7 +178,7 @@ header-includes:
 
 14. Перехожу в конец файла и пишу echo $HELLO. (рис. [-@fig:014])
 
-![ Использую команду INSERT ](image/14.png)(image/13.png){#fig:014 width=90%}
+![ Использую команду INSERT ](image/14.png){#fig:014 width=90%}
 
 ##
 
@@ -190,7 +190,7 @@ header-includes:
 
 16. Сохраняю и выхожу из файла hello.sh. (рис. [-@fig:016])
 
-![ Использую команду ESC+SHIFT+:+W+Q ](image/16.png){#fig:016 width=90%}(image/18.png){#fig:018 width=90%}
+![ Использую команду ESC+SHIFT+:+W+Q ](image/16.png){#fig:016 width=90%}
 
 # Выводы
 
